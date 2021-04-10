@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi , I'm Utkarsh Nagpure</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Utkarsh Nagpure</h1>
 <h3 align="center">A Passionate Fullstack Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh2604&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh2604" /> </p>
