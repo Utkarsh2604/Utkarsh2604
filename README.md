@@ -5,7 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/utkarsh2604"><i class="fab fa-dev" title="utkarsh2604's DEV Community Profile"></i></a>      
+ <a href="https://dev.to/utkarsh2604">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Utkarsh Nagpure's DEV Community Profile" height="30" width="30">
+</a>  
 <a href="https://twitter.com/utkarsh_nagpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="utkarsh_nagpure" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/utkarshngp" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="utkarshngp" height="30" width="40" /></a>
 <a href="https://discord.gg/Colinn#7099" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Colinn#7099" height="30" width="40" /></a>
