@@ -9,6 +9,7 @@
 <a href="https://twitter.com/utkarsh_nagpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="utkarsh_nagpure" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/utkarshngp" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="utkarshngp" height="30" width="40" /></a>
 <a href="https://discord.gg/Colinn#7099" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Colinn#7099" height="30" width="40" /></a>
+<a data-pin-do="buttonFollow" href="https://in.pinterest.com/oopsutkarsh/"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
