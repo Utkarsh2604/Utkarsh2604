@@ -9,6 +9,8 @@
 <a href="https://linkedin.com/in/utkarshngp" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="utkarshngp" height="30" width="40" /></a>
 <a href="https://discord.gg/Colinn#7099" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Colinn#7099" height="30" width="40" /></a>
 <a href="https://dev.to/utkarsh2604" target="blank"><img align="center" src="https://camo.githubusercontent.com/6cc90061976bcd4d1a61a6c76b818538b5a65754f7b7b8068fe0fa49a09def8f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667" alt="Colinn#7099" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/profiles/76561198859358013/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Colinn#7099" height="30" width="40" /></a>
+  
 
 </p>
 
