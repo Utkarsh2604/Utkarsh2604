@@ -11,7 +11,7 @@
 <a href="https://steamcommunity.com/profiles/76561198859358013/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/31pg24qdnmomqlp6smo4nuzdya6i?si=Zmv4PGZNQp-g87jQdUaCUg" target="_blank"><img align="center" src="assets/spotify.svg" height="30" width="40" /></a>
 <a href="https://www.last.fm/user/Soul_Listenerr" target="_blank"><img align="center" src="assets/lastfm.svg" height="30" width="40" /></a>
-<a href="https://in.pinterest.com/oopsutkarsh/" target="_blank"><img align="center" src="assets/pinterest.svg" height="30" width="40" /></a>
+#<a href="https://in.pinterest.com/oopsutkarsh/" target="_blank"><img align="center" src="assets/pinterest.svg" height="30" width="40" /></a>
 
 </p>
 
